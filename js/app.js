@@ -3,14 +3,14 @@ $(document).ready(function () {
   const $projectImg = $('.project-img').find('img');
 
   const arrIconsTech = [
-    { tool : 'selenium' , description : 'Librería de Javascript'},
-    { tool : 'cypress' , description : 'Plataforma para el uso de webs y Apps'},
-    { tool : 'javascript' , description : 'Lenguajes de Programación'},
-    { tool : 'node js' , description : 'Gestor de paquetes NPM'},
-    { tool : 'appium' , description : 'Software de control de versiones'},
-    { tool : 'java' , description : 'Librería Javascript'},
-    { tool : 'jira' , description : 'Librería Javascript'},
-    { tool : 'sikuli' , description : 'Preprocesador CSS'},
+    { tool : 'selenium' , description : ''},
+    { tool : 'cypress' , description : ''},
+    { tool : 'javascript' , description : ''},
+    { tool : 'node js' , description : ''},
+    { tool : 'appium' , description : ''},
+    { tool : 'java' , description : ''},
+    { tool : 'jira' , description : ''},
+    { tool : 'sikuli' , description : ''},
     { tool : 'android' , description : ''}
   ]
 
