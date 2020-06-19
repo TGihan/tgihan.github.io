@@ -3,20 +3,14 @@ $(document).ready(function () {
   const $projectImg = $('.project-img').find('img');
 
   const arrIconsTech = [
-    { tool : 'html' , description : ''},
-    { tool : 'css' , description : ''},
-    { tool : 'javascript' , description : ''},
-    { tool : 'typescript' , description : ''},
-    { tool : 'bootstrap' , description : ''},
-    { tool : 'angular' , description : ''},
-    { tool : 'react' , description : ''},
-    { tool : 'photoshop' , description : ''},
-    { tool : 'node js' , description : ''},
-    { tool : 'jquery' , description : ''},
-    { tool : 'webpack' , description : ''},
-    { tool : 'sass' , description : ''},
-    { tool : 'java' , description : ''},
     { tool : 'jira' , description : ''},
+    { tool : 'office' , description : ''},
+    { tool : 'sql' , description : ''},
+    { tool : 'project' , description : ''},
+    { tool : 'git' , description : ''},
+    { tool : 'java' , description : ''},
+    { tool : 'firebase' , description : ''},
+    { tool : 'photoshop' , description : ''},
     { tool : 'cypress' , description : ''},
     { tool : 'selenium' , description : ''}
   ]
