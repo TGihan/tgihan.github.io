@@ -10,7 +10,7 @@ $(document).ready(function () {
     { tool : 'git' , description : ''},
     { tool : 'java' , description : ''},
     { tool : 'firebase' , description : ''},
-    { tool : 'photoshop' , description : ''},
+    { tool : 'uat' , description : ''},
     { tool : 'cypress' , description : ''},
     { tool : 'selenium' , description : ''}
   ]
