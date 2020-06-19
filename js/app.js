@@ -3,15 +3,21 @@ $(document).ready(function () {
   const $projectImg = $('.project-img').find('img');
 
   const arrIconsTech = [
-    { tool : 'selenium' , description : ''},
-    { tool : 'cypress' , description : ''},
+    { tool : 'html' , description : ''},
+    { tool : 'css' , description : ''},
     { tool : 'javascript' , description : ''},
+    { tool : 'bootstrap' , description : ''},
+    { tool : 'angular' , description : ''},
+    { tool : 'react' , description : ''},
+    { tool : 'photoshop' , description : ''},
     { tool : 'node js' , description : ''},
-    { tool : 'appium' , description : ''},
+    { tool : 'typescript' , description : ''},
+    { tool : 'jquery' , description : ''},
+    { tool : 'webpacks' , description : ''},
     { tool : 'java' , description : ''},
     { tool : 'jira' , description : ''},
-    { tool : 'sikuli' , description : ''},
-    { tool : 'android' , description : ''}
+    { tool : 'cypress' , description : ''},
+    { tool : 'selenium' , description : ''}
   ]
 
   $('.modal-info').hide();
