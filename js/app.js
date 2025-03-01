@@ -4,14 +4,17 @@ $(document).ready(function () {
 
   const arrIconsTech = [
     { tool : 'jira' , description : ''},
-    { tool : 'office' , description : ''},
+    { tool : 'docker' , description : ''},
     { tool : 'sql' , description : ''},
     { tool : 'project' , description : ''},
     { tool : 'git' , description : ''},
-    { tool : 'java' , description : ''},
-    { tool : 'firebase' , description : ''},
-    { tool : 'cypress' , description : ''},
-    { tool : 'selenium' , description : ''}
+    { tool : 'python' , description : ''},
+    { tool : 'ansible' , description : ''},
+    { tool : 'terraform' , description : ''},
+    { tool : 'linux' , description : ''},
+    { tool : 'kubernate' , description : ''},
+    { tool : 'jenkins' , description : ''},
+    { tool : 'linux' , description : ''}
   ]
 
   $('.modal-info').hide();
