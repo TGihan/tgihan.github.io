@@ -12,7 +12,7 @@ $(document).ready(function () {
     { tool : 'ansible' , description : ''},
     { tool : 'terraform' , description : ''},
     { tool : 'linux' , description : ''},
-    { tool : 'kubernate' , description : ''},
+    { tool : 'kubernates' , description : ''},
     { tool : 'jenkins' , description : ''},
     { tool : 'linux' , description : ''}
   ]
