@@ -11,7 +11,7 @@ $(document).ready(function () {
     { tool : 'python' , description : ''},
     { tool : 'ansible' , description : ''},
     { tool : 'terraform' , description : ''},
-    { tool : 'linux' , description : ''},
+    { tool : 'javascript' , description : ''},
     { tool : 'kubernates' , description : ''},
     { tool : 'jenkins' , description : ''},
     { tool : 'linux' , description : ''}
